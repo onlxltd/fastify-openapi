@@ -1,5 +1,5 @@
 {
-  "name": "@fastify/swagger",
+  "name": "@fastify/openapi",
   "version": "1.0.0",
   "description": "Serve Swagger/OpenAPI documentation for Fastify, supporting dynamic generation",
   "main": "index.js",
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fastify/fastify-swagger.git"
+    "url": "git+https://github.com/onlxltd/fastify-openapi.git"
   },
   "keywords": [
     "fastify",
