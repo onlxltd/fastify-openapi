@@ -39,7 +39,7 @@
   "homepage": "https://github.com/fastify/fastify-swagger#readme",
   "devDependencies": {
     "@fastify/pre-commit": "^2.0.2",
-    "@types/node": "^18.0.0",
+    "@types/node": "^20.4.2",
     "fastify": "^4.10.2",
     "fluent-json-schema": "^4.0.0",
     "joi": "^17.6.0",
